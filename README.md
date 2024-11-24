@@ -71,21 +71,4 @@ Swipe Left on the Trade History Screen returns the user to the Home Screen.
 
 ## App Preview
 
-- Start Page
-  ![!](../XILLION/assets/App%20Images/StartPage.jpg)
-
-- Home Screen
-  <img src="../XILLION/assets/App%20Images/HomeScreen.jpg" alt="Home Screen" width="300"/>
-
-- User Details
-  <img src="../XILLION/assets/App%20Images/UserDetails.jpg" alt="User Details" width="300"/>
-
-- Trade History
-  <img src="../XILLION/assets/App%20Images/TradeHistory.jpg" alt="Trade History" width="300"/>
-
-- Trade Graph
-  <img src="../XILLION/assets/App%20Images/TradeGraph.jpg" alt="Trade Graph" width="300"/>
-
-## Video
-
-[Click here to view the App Video](https://drive.google.com/file/d/197ziC_cH0ErgNjz8Qa4EFv9URaBBmXNb/view?usp=sharing)
+[Click here to view the App Images and Video](https://drive.google.com/file/d/197ziC_cH0ErgNjz8Qa4EFv9URaBBmXNb/view?usp=sharing)
