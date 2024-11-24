@@ -25,26 +25,67 @@ In the output, you'll find options to open the app in a
 
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-## Get a fresh project
+# Project Overview
 
-When you're ready, run:
+This project is a mobile application built with React Native using Expo for rapid development. The application provides an interactive platform for users to track their trades, view detailed trade history, and monitor their profits. The design emphasizes user engagement, seamless navigation, and responsive functionality to create an optimal experience for users.
 
-```bash
-npm run reset-project
-```
+## Technologies Used
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+React Native: For building the app's user interface.
+Expo: To simplify the development process with pre-configured environments, allowing for faster and efficient development.
+NativeWind: A utility-first CSS framework for styling, allowing for faster and more consistent design implementation using utility classes.
 
-## Learn more
+## Features
 
-To learn more about developing your project with Expo, look at the following resources:
+### Start Page:
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+A Start Page was introduced to create a welcoming and engaging user experience. Upon app launch, the XILLION intro is displayed, setting the tone for the app and giving users a brief preview of its purpose before entering the main content.
 
-## Join the community
+### Home Screen
 
-Join our community of developers creating universal apps.
+The Home Screen layout closely follows the provided mockup, with several key features:
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Swipeable "Execute" Button: Implemented for smooth interaction, allowing users to perform actions and navigate to other screens.
+Scrollable "Today's Recommendations" List: Ensures that the list of trades can accommodate more data without affecting the layout or design.
+
+### Design Enhancements
+
+- User Details Screen
+  A User Details Screen was added, allowing users to view their name, email, and contact information. This feature adds a personal touch, enhancing the app’s interactivity and user engagement. The details can be accessed by tapping on the User Icon in the top-left corner of the Home Screen.
+
+### Trade History Page
+
+The Trade History Screen was designed to provide users with valuable insights into their trading activity:
+
+Interactive Trade Cards: Each card displays essential trade details like stock name, buy price, quantity, and status. Tapping on a trade card opens a graph showing the trade's performance over time.
+
+### Design Improvements
+
+- Profit Calculation: A Total Profit Calculation was implemented, which dynamically calculates and displays the user’s total profit from all trades. This feature helps users track their overall performance.
+- Trade Performance Graph: A graph is displayed when users click on a trade card, giving them a visual representation of how their trade performed over time. This graph adds interactivity and helps users analyze their trades effectively.
+  Navigation
+  The app includes intuitive navigation:
+
+Swipe Right on the "Execute" button transitions to the Trade History Screen.
+Swipe Left on the Trade History Screen returns the user to the Home Screen.
+
+## App Preview
+
+- Start Page
+  <img src="../XILLION/assets/App%20Images/StartPage.jpg" alt="Start Page" width="300"/>
+
+- Home Screen
+  <img src="../XILLION/assets/App%20Images/HomeScreen.jpg" alt="Home Screen" width="300"/>
+
+- User Details
+  <img src="../XILLION/assets/App%20Images/UserDetails.jpg" alt="User Details" width="300"/>
+
+- Trade History
+  <img src="../XILLION/assets/App%20Images/TradeHistory.jpg" alt="Trade History" width="300"/>
+
+- Trade Graph
+  <img src="../XILLION/assets/App%20Images/TradeGraph.jpg" alt="Trade Graph" width="300"/>
+
+## Video
+
+[Click here to view the App Video](https://drive.google.com/file/d/197ziC_cH0ErgNjz8Qa4EFv9URaBBmXNb/view?usp=sharing)
