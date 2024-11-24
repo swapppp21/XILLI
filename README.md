@@ -72,7 +72,7 @@ Swipe Left on the Trade History Screen returns the user to the Home Screen.
 ## App Preview
 
 - Start Page
-  <img src="../XILLION/assets/App%20Images/StartPage.jpg" alt="Start Page" width="300"/>
+  ![!](../XILLION/assets/App%20Images/StartPage.jpg)
 
 - Home Screen
   <img src="../XILLION/assets/App%20Images/HomeScreen.jpg" alt="Home Screen" width="300"/>
