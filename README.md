@@ -69,6 +69,10 @@ Interactive Trade Cards: Each card displays essential trade details like stock n
 Swipe Right on the "Execute" button transitions to the Trade History Screen.
 Swipe Left on the Trade History Screen returns the user to the Home Screen.
 
-## App Preview
+## App Video
 
-[Click here to view the App Images and Video](https://drive.google.com/file/d/197ziC_cH0ErgNjz8Qa4EFv9URaBBmXNb/view?usp=sharing)
+[Click here to view the Video](https://drive.google.com/file/d/197ziC_cH0ErgNjz8Qa4EFv9URaBBmXNb/view?usp=sharing)
+
+## App Images
+
+[Click here to view the images in the Google Drive folder](https://drive.google.com/drive/folders/1oBP7YGhKIc9fiUv3P9wCJpMaBao2K1Cf?usp=sharing)
